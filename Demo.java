@@ -16,4 +16,6 @@ public class Demo{
   int b=50;
 
   int c = a + b;
+	int d=40;
+	int e=50;
 }
