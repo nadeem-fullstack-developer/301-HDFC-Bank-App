@@ -16,4 +16,7 @@ public class Demo{
   public void m2(){
 	  //logic
   }
+  
+  int a =40;
+  int b=50;
 }
