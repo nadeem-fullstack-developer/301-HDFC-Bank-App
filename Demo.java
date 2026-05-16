@@ -1,5 +1,12 @@
 public class Demo{
 	
+	//JIRA Story-101
+	public void m1(){
+		//logic....
+	}
+
+
+	
   int i=10;
   int j=20;
   
